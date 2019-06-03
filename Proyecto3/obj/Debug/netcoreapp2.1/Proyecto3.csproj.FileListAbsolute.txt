@@ -1,0 +1,11 @@
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto3\Proyecto3\bin\Debug\netcoreapp2.1\Proyecto3.deps.json
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto3\Proyecto3\bin\Debug\netcoreapp2.1\Proyecto3.runtimeconfig.json
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto3\Proyecto3\bin\Debug\netcoreapp2.1\Proyecto3.runtimeconfig.dev.json
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto3\Proyecto3\bin\Debug\netcoreapp2.1\Proyecto3.dll
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto3\Proyecto3\bin\Debug\netcoreapp2.1\Proyecto3.pdb
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto3\Proyecto3\obj\Debug\netcoreapp2.1\Proyecto3.csproj.CoreCompileInputs.cache
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto3\Proyecto3\obj\Debug\netcoreapp2.1\Proyecto3.AssemblyInfoInputs.cache
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto3\Proyecto3\obj\Debug\netcoreapp2.1\Proyecto3.AssemblyInfo.cs
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto3\Proyecto3\obj\Debug\netcoreapp2.1\Proyecto3.dll
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto3\Proyecto3\obj\Debug\netcoreapp2.1\Proyecto3.pdb
+C:\Users\Alejo\Documents\MEGA\Desarrollo\CODIGO\NET\C#\Ejemplos\Proyecto3\Proyecto3\obj\Debug\netcoreapp2.1\Proyecto3.csprojAssemblyReference.cache
